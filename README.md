@@ -11,7 +11,6 @@ All assignments are published as PDF's on blackboard, and have the following del
 3. Assignment 3: Friday November 26th, 23:59 PM
 
 The starting source code for each assignment will be published during the semester.
-**Note that**  there might be bugs in the original starter code, therefore, please watch the announcements on blackboard in case we update the starter code.
 
 ### Assignment 1
 This assignment will give you an introduction to basic image processing with python, filtering in the spatial domain, and a simple introduction to building fully-connected neural networks with PyTorch.
