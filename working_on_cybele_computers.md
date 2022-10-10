@@ -35,7 +35,7 @@ ssh [ntnu-username]@clab[00-25].idi.ntnu.no
 ```
 For example, 
 ```
-ssh haakohu@clab21.idi.ntnu.no
+ssh mamoonas@clab21.idi.ntnu.no
 ```
 
 **NOTE**: It is not allowed to ssh onto the computers in school time! See above for rules
