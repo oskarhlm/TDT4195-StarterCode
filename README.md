@@ -1,6 +1,6 @@
 # TDT4195 - Visual Computing Fundamentals
 
-This is the repository for the assignments in TDT4195.
+This is the repository for the assignments in TDT4195. Originally written by Håkon Hukkelas. Maintained by Mamoona Birkhez Shami.
 
 
 ## Overview
