@@ -6,9 +6,9 @@ This is the repository for the assignments in TDT4195.
 ## Overview
 All assignments are published as PDF's on blackboard, and have the following delivery dates:
 
-1. Assignment 1: Friday October 29th, 23:59 PM
-2. Assignment 2 Friday November 12th ,23:59 PM
-3. Assignment 3: Friday November 26th, 23:59 PM
+1. Assignment 1: Friday October 28th, 23:59 PM
+2. Assignment 2 Friday November 11th ,23:59 PM
+3. Assignment 3: Friday November 25th, 23:59 PM
 
 The starting source code for each assignment will be published during the semester.
 
@@ -42,7 +42,7 @@ In this course, all assignments are given in python. You can do the assignments 
 Clone this repostiory:
 
 ```bash
-git clone https://github.com/hukkelas/TDT4195-StarterCode
+git clone https://github.com/TDT4195-tutorial/TDT4195-StarterCode.git
 ```
 
 You can also download this repository as a zip file and unzip it on your computer.
