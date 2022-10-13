@@ -9,7 +9,7 @@ The system is only accessible from an NTNU IP address, so you will have to use *
 
 ## How to:
 **NOTE**: For all commands, replace the username **haakohu** with your own NTNU username.
-1. Log into the main server via ssh:
+1. Log into the main server , either through our [web interface](https://tdt4265.idi.ntnu.no/ssh/), or via ssh in cmd:
 ```
     ssh haakohu@snotra.idi.ntnu.no
 ```
