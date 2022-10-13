@@ -38,4 +38,21 @@ For example,
 ssh mamoonas@clab21.idi.ntnu.no
 ```
 
+You can also use jupyter notebook remotely. To connect use port forwarding when doing ssh:
+
+```
+ssh -o "ServerAliveInterval=60" -L [port]:localhost:[port] [ntnu-username]@clab[00-25].idi.ntnu.no
+```
+
+For example, 
+```
+ssh -o "ServerAliveInterval=60" -L 7050:localhost:7050 mamoonas@clab21.idi.ntnu.no
+```
+
+To start jupyter notebook: 
+```
+jupyter notebook --no-browser --port=7050 
+```
+Then copy the URL in the browser.
+
 **NOTE**: It is not allowed to ssh onto the computers in school time! See above for rules
