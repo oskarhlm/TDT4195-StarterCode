@@ -38,7 +38,7 @@ For example,
 ssh mamoonas@clab21.idi.ntnu.no
 ```
 
-You can also use jupyter notebook remotely. To connect use port forwarding when doing ssh:
+You can also use jupyter remotely. To connect use port forwarding when doing ssh:
 
 ```
 ssh -o "ServerAliveInterval=60" -L [port]:localhost:[port] [ntnu-username]@clab[00-25].idi.ntnu.no
